@@ -1,2 +1,2 @@
 # e-commerce_demo
-Demo of an stamen e-commerce
+Demo of an e-commerce of stamens
